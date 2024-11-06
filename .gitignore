@@ -1,0 +1,24 @@
+# Ignorar todos os arquivos compilados
+*.o
+*.out
+*.exe
+*.gch
+
+# Ignorar diretórios de build
+build/
+
+# Ignorar arquivos do Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários do sistema
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Ignorar arquivos gerados por Makefile
+lista
