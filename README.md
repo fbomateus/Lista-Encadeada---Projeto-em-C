@@ -39,7 +39,7 @@ lista-projeto/
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/lista-projeto.git
+   git clone https://github.com/fbomateus/Lista-Encadeada---Projeto-em-C.git
    cd lista-projeto
    ```
 
